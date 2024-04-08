@@ -2,7 +2,7 @@
 
 ## Description
 
-Foi desenvolvido toda até o create do CRUD, com rotas e controller. Precisa testar com eles, porque não deu tempo e criar o delete, update e a listagem.
+Foi desenvolvido toda ação do create do CRUD, com rotas e controller. Precisa testar com eles, porque não deu tempo e criar o delete, update e a listagem.
 
 O modelo final, de como deve ficar a API, pode ser encontrada neste repositório: https://github.com/compil3r/task-senac
 
